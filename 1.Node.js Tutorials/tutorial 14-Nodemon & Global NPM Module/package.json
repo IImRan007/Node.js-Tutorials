@@ -1,0 +1,16 @@
+{
+  "name": "npm-modules",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "nodemon": "^2.0.10",
+    "validator": "^13.6.0"
+  }
+}

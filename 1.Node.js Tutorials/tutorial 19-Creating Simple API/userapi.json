@@ -1,0 +1,117 @@
+[
+{
+    "id":1,
+    "name":"Lemar",
+    "username": "Sincere",
+    "email":"Sincere@yahoomail.com",
+    "address":{
+        "street":"Kulas Light",
+        "suite":"Apt. 656",
+        "city":"Cambridge",
+        "zipcode":"121-121",
+        "geo":{
+            "lat":"-32-7878",
+            "lng":"81.15456"
+        }
+    },
+    "phone":"312399",
+    "website":"Lamar.com",
+    "company":{
+        "name":"Lemar",
+        "cathcPhrase":"Multi Cotton Candy",
+        "bs":"Market Store"
+    }
+},
+{
+    "id":2,
+    "name":"Michael",
+    "username": "Sincere",
+    "email":"Sincere@yahoomail.com",
+    "address":{
+        "street":"Kulas Light",
+        "suite":"Apt. 656",
+        "city":"Cambridge",
+        "zipcode":"121-121",
+        "geo":{
+            "lat":"-32-7878",
+            "lng":"81.15456"
+        }
+    },
+    "phone":"312399",
+    "website":"Lamar.com",
+    "company":{
+        "name":"Lemar",
+        "cathcPhrase":"Multi Cotton Candy",
+        "bs":"Market Store"
+    }
+},
+{
+    "id":3,
+    "name":"Franklin",
+    "username": "Sincere",
+    "email":"Sincere@yahoomail.com",
+    "address":{
+        "street":"Kulas Light",
+        "suite":"Apt. 656",
+        "city":"Cambridge",
+        "zipcode":"121-121",
+        "geo":{
+            "lat":"-32-7878",
+            "lng":"81.15456"
+        }
+    },
+    "phone":"312399",
+    "website":"Lamar.com",
+    "company":{
+        "name":"Lemar",
+        "cathcPhrase":"Multi Cotton Candy",
+        "bs":"Market Store"
+    }
+},
+{
+    "id":4,
+    "name":"Amanda",
+    "username": "Sincere",
+    "email":"Sincere@yahoomail.com",
+    "address":{
+        "street":"Kulas Light",
+        "suite":"Apt. 656",
+        "city":"Cambridge",
+        "zipcode":"121-121",
+        "geo":{
+            "lat":"-32-7878",
+            "lng":"81.15456"
+        }
+    },
+    "phone":"312399",
+    "website":"Lamar.com",
+    "company":{
+        "name":"Lemar",
+        "cathcPhrase":"Multi Cotton Candy",
+        "bs":"Market Store"
+    }
+},
+{
+    "id":5,
+    "name":"Cerny",
+    "username": "Sincere",
+    "email":"Sincere@yahoomail.com",
+    "address":{
+        "street":"Kulas Light",
+        "suite":"Apt. 656",
+        "city":"Cambridge",
+        "zipcode":"121-121",
+        "geo":{
+            "lat":"-32-7878",
+            "lng":"81.15456"
+        }
+    },
+    "phone":"312399",
+    "website":"Lamar.com",
+    "company":{
+        "name":"Lemar",
+        "cathcPhrase":"Multi Cotton Candy",
+        "bs":"Market Store"
+    }
+}
+]
